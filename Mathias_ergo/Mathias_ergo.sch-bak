@@ -17,7 +17,7 @@ Text Label 9000 1150 0    50   ~ 0
 S2
 Text Label 9000 2800 0    50   ~ 0
 S3
-Text Label 10250 3350 0    50   ~ 0
+Text Label 5650 3350 0    50   ~ 0
 S4
 Wire Wire Line
 	6750 1150 6850 1150
@@ -178,10 +178,10 @@ F 3 "~" V 4400 5910 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_SPST SW31
+L Switch:SW_SPST SW29
 U 1 1 5EBC43F9
 P 4900 4700
-F 0 "SW31" H 4900 4500 50  0000 C CNN
+F 0 "SW29" H 4900 4500 50  0000 C CNN
 F 1 "SW_SPST" H 4900 4600 50  0000 C CNN
 F 2 "User_Keyboard:PCM12SMTR" H 4900 4700 50  0001 C CNN
 F 3 "~" H 4900 4700 50  0001 C CNN
@@ -204,10 +204,10 @@ GND2
 NoConn ~ 950  7100
 NoConn ~ 950  7200
 $Comp
-L Switch:SW_Push_Dual SW7
+L Switch:SW_Push_Dual SW2
 U 1 1 5EF06446
 P 6550 950
-F 0 "SW7" H 6550 1235 50  0000 C CNN
+F 0 "SW2" H 6550 1235 50  0000 C CNN
 F 1 "SW_Push_Dual" H 6550 1144 50  0000 C CNN
 F 2 "User_Keyboard:Kailh_low_profile" H 6550 1150 50  0001 C CNN
 F 3 "~" H 6550 1150 50  0001 C CNN
@@ -215,10 +215,10 @@ F 3 "~" H 6550 1150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push_Dual SW13
+L Switch:SW_Push_Dual SW3
 U 1 1 5EF0E9E9
 P 7600 950
-F 0 "SW13" H 7600 1235 50  0000 C CNN
+F 0 "SW3" H 7600 1235 50  0000 C CNN
 F 1 "SW_Push_Dual" H 7600 1144 50  0000 C CNN
 F 2 "User_Keyboard:Kailh_low_profile" H 7600 1150 50  0001 C CNN
 F 3 "~" H 7600 1150 50  0001 C CNN
@@ -226,10 +226,10 @@ F 3 "~" H 7600 1150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push_Dual SW19
+L Switch:SW_Push_Dual SW4
 U 1 1 5EF16D8E
 P 8700 950
-F 0 "SW19" H 8700 1235 50  0000 C CNN
+F 0 "SW4" H 8700 1235 50  0000 C CNN
 F 1 "SW_Push_Dual" H 8700 1144 50  0000 C CNN
 F 2 "User_Keyboard:Kailh_low_profile" H 8700 1150 50  0001 C CNN
 F 3 "~" H 8700 1150 50  0001 C CNN
@@ -237,10 +237,10 @@ F 3 "~" H 8700 1150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push_Dual SW8
+L Switch:SW_Push_Dual SW7
 U 1 1 5EF2FD1C
 P 6550 1500
-F 0 "SW8" H 6550 1785 50  0000 C CNN
+F 0 "SW7" H 6550 1785 50  0000 C CNN
 F 1 "SW_Push_Dual" H 6550 1694 50  0000 C CNN
 F 2 "User_Keyboard:Kailh_low_profile" H 6550 1700 50  0001 C CNN
 F 3 "~" H 6550 1700 50  0001 C CNN
@@ -248,10 +248,10 @@ F 3 "~" H 6550 1700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push_Dual SW14
+L Switch:SW_Push_Dual SW8
 U 1 1 5EF38059
 P 7600 1500
-F 0 "SW14" H 7600 1785 50  0000 C CNN
+F 0 "SW8" H 7600 1785 50  0000 C CNN
 F 1 "SW_Push_Dual" H 7600 1694 50  0000 C CNN
 F 2 "User_Keyboard:Kailh_low_profile" H 7600 1700 50  0001 C CNN
 F 3 "~" H 7600 1700 50  0001 C CNN
@@ -259,10 +259,10 @@ F 3 "~" H 7600 1700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push_Dual SW20
+L Switch:SW_Push_Dual SW9
 U 1 1 5EF404DF
 P 8700 1500
-F 0 "SW20" H 8700 1785 50  0000 C CNN
+F 0 "SW9" H 8700 1785 50  0000 C CNN
 F 1 "SW_Push_Dual" H 8700 1694 50  0000 C CNN
 F 2 "User_Keyboard:Kailh_low_profile" H 8700 1700 50  0001 C CNN
 F 3 "~" H 8700 1700 50  0001 C CNN
@@ -270,10 +270,10 @@ F 3 "~" H 8700 1700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push_Dual SW9
+L Switch:SW_Push_Dual SW12
 U 1 1 5EF59304
 P 6550 2050
-F 0 "SW9" H 6550 2335 50  0000 C CNN
+F 0 "SW12" H 6550 2335 50  0000 C CNN
 F 1 "SW_Push_Dual" H 6550 2244 50  0000 C CNN
 F 2 "User_Keyboard:Kailh_low_profile" H 6550 2250 50  0001 C CNN
 F 3 "~" H 6550 2250 50  0001 C CNN
@@ -281,10 +281,10 @@ F 3 "~" H 6550 2250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push_Dual SW15
+L Switch:SW_Push_Dual SW13
 U 1 1 5EF615D4
 P 7600 2050
-F 0 "SW15" H 7600 2335 50  0000 C CNN
+F 0 "SW13" H 7600 2335 50  0000 C CNN
 F 1 "SW_Push_Dual" H 7600 2244 50  0000 C CNN
 F 2 "User_Keyboard:Kailh_low_profile" H 7600 2250 50  0001 C CNN
 F 3 "~" H 7600 2250 50  0001 C CNN
@@ -292,10 +292,10 @@ F 3 "~" H 7600 2250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push_Dual SW21
+L Switch:SW_Push_Dual SW14
 U 1 1 5EF69911
 P 8700 2050
-F 0 "SW21" H 8700 2335 50  0000 C CNN
+F 0 "SW14" H 8700 2335 50  0000 C CNN
 F 1 "SW_Push_Dual" H 8700 2244 50  0000 C CNN
 F 2 "User_Keyboard:Kailh_low_profile" H 8700 2250 50  0001 C CNN
 F 3 "~" H 8700 2250 50  0001 C CNN
@@ -303,10 +303,10 @@ F 3 "~" H 8700 2250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push_Dual SW10
+L Switch:SW_Push_Dual SW17
 U 1 1 5EF82529
 P 6550 2600
-F 0 "SW10" H 6550 2885 50  0000 C CNN
+F 0 "SW17" H 6550 2885 50  0000 C CNN
 F 1 "SW_Push_Dual" H 6550 2794 50  0000 C CNN
 F 2 "User_Keyboard:Kailh_low_profile" H 6550 2800 50  0001 C CNN
 F 3 "~" H 6550 2800 50  0001 C CNN
@@ -314,10 +314,10 @@ F 3 "~" H 6550 2800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push_Dual SW16
+L Switch:SW_Push_Dual SW18
 U 1 1 5EF8A940
 P 7600 2600
-F 0 "SW16" H 7600 2885 50  0000 C CNN
+F 0 "SW18" H 7600 2885 50  0000 C CNN
 F 1 "SW_Push_Dual" H 7600 2794 50  0000 C CNN
 F 2 "User_Keyboard:Kailh_low_profile" H 7600 2800 50  0001 C CNN
 F 3 "~" H 7600 2800 50  0001 C CNN
@@ -325,10 +325,10 @@ F 3 "~" H 7600 2800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push_Dual SW22
+L Switch:SW_Push_Dual SW19
 U 1 1 5EF92AF6
 P 8700 2600
-F 0 "SW22" H 8700 2885 50  0000 C CNN
+F 0 "SW19" H 8700 2885 50  0000 C CNN
 F 1 "SW_Push_Dual" H 8700 2794 50  0000 C CNN
 F 2 "User_Keyboard:Kailh_low_profile" H 8700 2800 50  0001 C CNN
 F 3 "~" H 8700 2800 50  0001 C CNN
@@ -336,10 +336,10 @@ F 3 "~" H 8700 2800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push_Dual SW23
+L Switch:SW_Push_Dual SW24
 U 1 1 5EFBCB19
 P 8700 3150
-F 0 "SW23" H 8700 3435 50  0000 C CNN
+F 0 "SW24" H 8700 3435 50  0000 C CNN
 F 1 "SW_Push_Dual" H 8700 3344 50  0000 C CNN
 F 2 "User_Keyboard:Kailh_low_profile" H 8700 3350 50  0001 C CNN
 F 3 "~" H 8700 3350 50  0001 C CNN
@@ -347,10 +347,10 @@ F 3 "~" H 8700 3350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push_Dual SW17
+L Switch:SW_Push_Dual SW23
 U 1 1 5EFB4459
 P 7600 3150
-F 0 "SW17" H 7600 3435 50  0000 C CNN
+F 0 "SW23" H 7600 3435 50  0000 C CNN
 F 1 "SW_Push_Dual" H 7600 3344 50  0000 C CNN
 F 2 "User_Keyboard:Kailh_low_profile" H 7600 3350 50  0001 C CNN
 F 3 "~" H 7600 3350 50  0001 C CNN
@@ -358,10 +358,10 @@ F 3 "~" H 7600 3350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push_Dual SW11
+L Switch:SW_Push_Dual SW22
 U 1 1 5EFABBE3
 P 6550 3150
-F 0 "SW11" H 6550 3435 50  0000 C CNN
+F 0 "SW22" H 6550 3435 50  0000 C CNN
 F 1 "SW_Push_Dual" H 6550 3344 50  0000 C CNN
 F 2 "User_Keyboard:Kailh_low_profile" H 6550 3350 50  0001 C CNN
 F 3 "~" H 6550 3350 50  0001 C CNN
@@ -379,10 +379,10 @@ S23
 Text Label 10250 1700 0    50   ~ 0
 S22
 $Comp
-L Switch:SW_Push_Dual SW24
+L Switch:SW_Push_Dual SW28
 U 1 1 5EFE69E9
 P 8700 3700
-F 0 "SW24" H 8700 3985 50  0000 C CNN
+F 0 "SW28" H 8700 3985 50  0000 C CNN
 F 1 "SW_Push_Dual" H 8700 3894 50  0000 C CNN
 F 2 "User_Keyboard:Kailh_low_profile" H 8700 3900 50  0001 C CNN
 F 3 "~" H 8700 3900 50  0001 C CNN
@@ -390,10 +390,10 @@ F 3 "~" H 8700 3900 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push_Dual SW18
+L Switch:SW_Push_Dual SW27
 U 1 1 5EFDE24B
 P 7600 3700
-F 0 "SW18" H 7600 3985 50  0000 C CNN
+F 0 "SW27" H 7600 3985 50  0000 C CNN
 F 1 "SW_Push_Dual" H 7600 3894 50  0000 C CNN
 F 2 "User_Keyboard:Kailh_low_profile" H 7600 3900 50  0001 C CNN
 F 3 "~" H 7600 3900 50  0001 C CNN
@@ -401,10 +401,10 @@ F 3 "~" H 7600 3900 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push_Dual SW12
+L Switch:SW_Push_Dual SW26
 U 1 1 5EFD5E7C
 P 6550 3700
-F 0 "SW12" H 6550 3985 50  0000 C CNN
+F 0 "SW26" H 6550 3985 50  0000 C CNN
 F 1 "SW_Push_Dual" H 6550 3894 50  0000 C CNN
 F 2 "User_Keyboard:Kailh_low_profile" H 6550 3900 50  0001 C CNN
 F 3 "~" H 6550 3900 50  0001 C CNN
@@ -573,11 +573,8 @@ Wire Wire Line
 	8450 1150 8450 1700
 Wire Wire Line
 	8500 1150 8450 1150
-Connection ~ 9550 2800
 Wire Wire Line
-	9550 3350 9700 3350
-Wire Wire Line
-	9550 2800 9550 3350
+	4950 3350 5100 3350
 Connection ~ 9550 2250
 Wire Wire Line
 	9550 2800 9700 2800
@@ -594,9 +591,9 @@ Wire Wire Line
 	9550 1150 9550 1700
 Wire Wire Line
 	9700 1150 9550 1150
-Connection ~ 10100 3350
+Connection ~ 5500 3350
 Wire Wire Line
-	10100 3150 10100 3350
+	5500 3150 5500 3350
 Connection ~ 10100 2800
 Wire Wire Line
 	10100 2600 10100 2800
@@ -612,23 +609,23 @@ Wire Wire Line
 Text Label 9000 1700 0    50   ~ 0
 S25
 Wire Wire Line
-	10100 3350 10250 3350
+	5500 3350 5650 3350
 $Comp
-L Switch:SW_Push_Dual SW29
+L Switch:SW_Push_Dual SW21
 U 1 1 5EFC4FD1
-P 9900 3150
-F 0 "SW29" H 9900 3435 50  0000 C CNN
-F 1 "SW_Push_Dual" H 9900 3344 50  0000 C CNN
-F 2 "User_Keyboard:Kailh_low_profile" H 9900 3350 50  0001 C CNN
-F 3 "~" H 9900 3350 50  0001 C CNN
-	1    9900 3150
+P 5300 3150
+F 0 "SW21" H 5300 3435 50  0000 C CNN
+F 1 "SW_Push_Dual" H 5300 3344 50  0000 C CNN
+F 2 "User_Keyboard:Kailh_low_profile" H 5300 3350 50  0001 C CNN
+F 3 "~" H 5300 3350 50  0001 C CNN
+	1    5300 3150
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push_Dual SW25
+L Switch:SW_Push_Dual SW5
 U 1 1 5EF1F1CF
 P 9900 950
-F 0 "SW25" H 9900 1235 50  0000 C CNN
+F 0 "SW5" H 9900 1235 50  0000 C CNN
 F 1 "SW_Push_Dual" H 9900 1144 50  0000 C CNN
 F 2 "User_Keyboard:Kailh_low_profile" H 9900 1150 50  0001 C CNN
 F 3 "~" H 9900 1150 50  0001 C CNN
@@ -636,10 +633,10 @@ F 3 "~" H 9900 1150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push_Dual SW26
+L Switch:SW_Push_Dual SW10
 U 1 1 5EF48A4E
 P 9900 1500
-F 0 "SW26" H 9900 1785 50  0000 C CNN
+F 0 "SW10" H 9900 1785 50  0000 C CNN
 F 1 "SW_Push_Dual" H 9900 1694 50  0000 C CNN
 F 2 "User_Keyboard:Kailh_low_profile" H 9900 1700 50  0001 C CNN
 F 3 "~" H 9900 1700 50  0001 C CNN
@@ -647,10 +644,10 @@ F 3 "~" H 9900 1700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push_Dual SW27
+L Switch:SW_Push_Dual SW15
 U 1 1 5EF71D21
 P 9900 2050
-F 0 "SW27" H 9900 2335 50  0000 C CNN
+F 0 "SW15" H 9900 2335 50  0000 C CNN
 F 1 "SW_Push_Dual" H 9900 2244 50  0000 C CNN
 F 2 "User_Keyboard:Kailh_low_profile" H 9900 2250 50  0001 C CNN
 F 3 "~" H 9900 2250 50  0001 C CNN
@@ -658,10 +655,10 @@ F 3 "~" H 9900 2250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push_Dual SW28
+L Switch:SW_Push_Dual SW20
 U 1 1 5EF9B0F9
 P 9900 2600
-F 0 "SW28" H 9900 2885 50  0000 C CNN
+F 0 "SW20" H 9900 2885 50  0000 C CNN
 F 1 "SW_Push_Dual" H 9900 2794 50  0000 C CNN
 F 2 "User_Keyboard:Kailh_low_profile" H 9900 2800 50  0001 C CNN
 F 3 "~" H 9900 2800 50  0001 C CNN
@@ -680,13 +677,8 @@ Text Label 7900 3350 0    50   ~ 0
 S20
 Text Label 5650 3900 0    50   ~ 0
 S15
-Text Label 5650 3350 0    50   ~ 0
-S10
 Text Label 6850 2250 0    50   ~ 0
 S5
-Wire Wire Line
-	5550 3350 5650 3350
-Connection ~ 5550 3350
 Connection ~ 5550 1700
 Wire Wire Line
 	5650 1700 5550 1700
@@ -700,20 +692,11 @@ Wire Wire Line
 Connection ~ 5550 2800
 Wire Wire Line
 	5550 2600 5550 2800
-Wire Wire Line
-	5550 3150 5550 3350
 Connection ~ 5550 3900
 Wire Wire Line
 	5550 3700 5550 3900
 Wire Wire Line
 	5150 3900 4950 3900
-Wire Wire Line
-	4950 3350 4950 3900
-Connection ~ 4950 3350
-Wire Wire Line
-	5150 3350 4950 3350
-Wire Wire Line
-	4950 2800 4950 3350
 Connection ~ 4950 2800
 Wire Wire Line
 	5150 2800 4950 2800
@@ -738,10 +721,10 @@ Wire Wire Line
 Text Label 7900 1700 0    50   ~ 0
 S26
 $Comp
-L Switch:SW_Push_Dual SW6
+L Switch:SW_Push_Dual SW25
 U 1 1 5EFCD878
 P 5350 3700
-F 0 "SW6" H 5350 3985 50  0000 C CNN
+F 0 "SW25" H 5350 3985 50  0000 C CNN
 F 1 "SW_Push_Dual" H 5350 3894 50  0000 C CNN
 F 2 "User_Keyboard:Kailh_low_profile" H 5350 3900 50  0001 C CNN
 F 3 "~" H 5350 3900 50  0001 C CNN
@@ -749,21 +732,10 @@ F 3 "~" H 5350 3900 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push_Dual SW5
-U 1 1 5EFA353F
-P 5350 3150
-F 0 "SW5" H 5350 3435 50  0000 C CNN
-F 1 "SW_Push_Dual" H 5350 3344 50  0000 C CNN
-F 2 "User_Keyboard:Kailh_low_profile" H 5350 3350 50  0001 C CNN
-F 3 "~" H 5350 3350 50  0001 C CNN
-	1    5350 3150
-	1    0    0    -1  
-$EndComp
-$Comp
-L Switch:SW_Push_Dual SW4
+L Switch:SW_Push_Dual SW16
 U 1 1 5EF7A22A
 P 5350 2600
-F 0 "SW4" H 5350 2885 50  0000 C CNN
+F 0 "SW16" H 5350 2885 50  0000 C CNN
 F 1 "SW_Push_Dual" H 5350 2794 50  0000 C CNN
 F 2 "User_Keyboard:Kailh_low_profile" H 5350 2800 50  0001 C CNN
 F 3 "~" H 5350 2800 50  0001 C CNN
@@ -771,10 +743,10 @@ F 3 "~" H 5350 2800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push_Dual SW3
+L Switch:SW_Push_Dual SW11
 U 1 1 5EF50F21
 P 5350 2050
-F 0 "SW3" H 5350 2335 50  0000 C CNN
+F 0 "SW11" H 5350 2335 50  0000 C CNN
 F 1 "SW_Push_Dual" H 5350 2244 50  0000 C CNN
 F 2 "User_Keyboard:Kailh_low_profile" H 5350 2250 50  0001 C CNN
 F 3 "~" H 5350 2250 50  0001 C CNN
@@ -782,10 +754,10 @@ F 3 "~" H 5350 2250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push_Dual SW2
+L Switch:SW_Push_Dual SW6
 U 1 1 5EF2775E
 P 5350 1500
-F 0 "SW2" H 5350 1785 50  0000 C CNN
+F 0 "SW6" H 5350 1785 50  0000 C CNN
 F 1 "SW_Push_Dual" H 5350 1694 50  0000 C CNN
 F 2 "User_Keyboard:Kailh_low_profile" H 5350 1700 50  0001 C CNN
 F 3 "~" H 5350 1700 50  0001 C CNN
@@ -834,16 +806,9 @@ Wire Wire Line
 Wire Wire Line
 	4700 2600 5150 2600
 Connection ~ 4700 2050
-Wire Wire Line
-	4700 2600 4700 3150
-Wire Wire Line
-	4700 3150 5150 3150
 Connection ~ 4700 2600
 Wire Wire Line
-	4700 3150 4700 3700
-Wire Wire Line
 	4700 3700 5150 3700
-Connection ~ 4700 3150
 Wire Wire Line
 	6350 950  5900 950 
 Wire Wire Line
@@ -939,17 +904,14 @@ Wire Wire Line
 	9300 2600 9700 2600
 Connection ~ 9300 2050
 Wire Wire Line
-	9300 2600 9300 3150
-Wire Wire Line
-	9300 3150 9700 3150
-Connection ~ 9300 2600
+	4700 3150 5100 3150
 Text GLabel 6150 3900 3    50   Input ~ 0
 GND1
 Text GLabel 7350 3900 3    50   Input ~ 0
 GND1
 Text GLabel 8450 3900 3    50   Input ~ 0
 GND1
-Text GLabel 9550 3350 3    50   Input ~ 0
+Text GLabel 9550 2800 3    50   Input ~ 0
 GND1
 Text GLabel 5900 3700 3    50   Input ~ 0
 GND2
@@ -957,7 +919,7 @@ Text GLabel 7100 3700 3    50   Input ~ 0
 GND2
 Text GLabel 8200 3700 3    50   Input ~ 0
 GND2
-Text GLabel 9300 3150 3    50   Input ~ 0
+Text GLabel 9300 2600 3    50   Input ~ 0
 GND2
 NoConn ~ 950  3650
 NoConn ~ 950  3550
@@ -1018,8 +980,6 @@ Wire Wire Line
 Wire Wire Line
 	1850 2550 2000 2550
 Wire Wire Line
-	1850 2750 2000 2750
-Wire Wire Line
 	1850 1550 2000 1550
 Wire Wire Line
 	1850 750  2000 750 
@@ -1079,8 +1039,6 @@ Text Label 2000 1450 0    50   ~ 0
 S14
 Text Label 2000 2350 0    50   ~ 0
 S12
-Text Label 2000 2750 0    50   ~ 0
-S10
 Text Label 2000 1850 0    50   ~ 0
 S7
 Text Label 2000 2150 0    50   ~ 0
@@ -1095,18 +1053,6 @@ Text Label 2000 3150 0    50   ~ 0
 S1
 NoConn ~ 1850 7000
 NoConn ~ 1850 6900
-Connection ~ 950  5150
-$Comp
-L User:Core51822 MCU2
-U 1 1 5E97D228
-P 1400 5900
-F 0 "MCU2" H 1400 7725 50  0000 C CNN
-F 1 "Core51822" H 1400 7634 50  0000 C CNN
-F 2 "User_Keyboard:YJ14015" H 1400 5950 50  0001 C CNN
-F 3 "" H 1400 5950 50  0001 C CNN
-	1    1400 5900
-	1    0    0    -1  
-$EndComp
 Text Label 2000 6200 0    50   ~ 0
 S24
 Wire Wire Line
@@ -1149,8 +1095,6 @@ Wire Wire Line
 	1850 6800 2000 6800
 Wire Wire Line
 	1850 6600 2000 6600
-Wire Wire Line
-	1850 6400 2000 6400
 Wire Wire Line
 	1850 4700 2000 4700
 Wire Wire Line
@@ -1209,8 +1153,6 @@ Text Label 2000 4800 0    50   ~ 0
 S14
 Text Label 2000 6800 0    50   ~ 0
 S12
-Text Label 2000 6400 0    50   ~ 0
-S10
 Text Label 2000 4400 0    50   ~ 0
 S7
 Text Label 2000 7200 0    50   ~ 0
@@ -1238,10 +1180,10 @@ $EndComp
 Wire Wire Line
 	850  1150 900  1150
 $Comp
-L power:PWR_FLAG #FLG0102
+L power:PWR_FLAG #FLG02
 U 1 1 5ECCC23C
 P 900 4350
-F 0 "#FLG0102" H 900 4425 50  0001 C CNN
+F 0 "#FLG02" H 900 4425 50  0001 C CNN
 F 1 "PWR_FLAG" H 900 4523 50  0000 C CNN
 F 2 "" H 900 4350 50  0001 C CNN
 F 3 "~" H 900 4350 50  0001 C CNN
@@ -1255,10 +1197,10 @@ Wire Wire Line
 Wire Wire Line
 	5000 5000 4450 5000
 $Comp
-L power:PWR_FLAG #FLG0101
+L power:PWR_FLAG #FLG01
 U 1 1 5ECCAB09
 P 900 800
-F 0 "#FLG0101" H 900 875 50  0001 C CNN
+F 0 "#FLG01" H 900 875 50  0001 C CNN
 F 1 "PWR_FLAG" H 900 973 50  0000 C CNN
 F 2 "" H 900 800 50  0001 C CNN
 F 3 "~" H 900 800 50  0001 C CNN
@@ -1289,4 +1231,36 @@ Wire Wire Line
 Connection ~ 5200 4700
 Text Label 7900 3900 0    50   ~ 0
 S21
+Wire Wire Line
+	4950 2800 4950 3350
+Wire Wire Line
+	4700 2600 4700 3150
+Connection ~ 4700 3150
+Wire Wire Line
+	4700 3150 4700 3700
+Connection ~ 4950 3350
+Wire Wire Line
+	4950 3350 4950 3900
+Connection ~ 950  5150
+$Comp
+L User:Core51822 MCU2
+U 1 1 5E97D228
+P 1400 5900
+F 0 "MCU2" H 1400 7725 50  0000 C CNN
+F 1 "Core51822" H 1400 7634 50  0000 C CNN
+F 2 "User_Keyboard:YJ14015" H 1400 5950 50  0001 C CNN
+F 3 "" H 1400 5950 50  0001 C CNN
+	1    1400 5900
+	1    0    0    -1  
+$EndComp
+NoConn ~ 1850 6400
+NoConn ~ 1850 2750
+Text Notes 2300 1000 0    50   ~ 0
+MCU for right hand\nWill be on the green layer\n
+Text Notes 2400 6950 0    50   ~ 0
+MCU for the left hand\nWill be on the red layer
+Text Notes 5400 6300 0    50   ~ 0
+Battery protection MOSFET\nMakes the MCU not blow if the battery is inserted wrongly
+Text Notes 9250 3400 0    50   ~ 0
+Switches can be placed on \neither side of the final pcb\nHence the extra pin
 $EndSCHEMATC
