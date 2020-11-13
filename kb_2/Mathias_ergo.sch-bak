@@ -190,7 +190,7 @@ L User_Switch:SW_Push_Dual SW17
 U 1 1 5EF82529
 P 6550 2600
 F 0 "SW17" H 6550 2885 50  0000 C CNN
-F 1 "SW_Push_Dual" H 6550 2794 50  0000 C CNN
+F 1 "Kailh_choc" H 6550 2794 50  0000 C CNN
 F 2 "User_Keyboard:Kailh_low_profile" H 6550 2800 50  0001 C CNN
 F 3 "~" H 6550 2800 50  0001 C CNN
 	1    6550 2600
@@ -201,7 +201,7 @@ L User_Switch:SW_Push_Dual SW18
 U 1 1 5EF8A940
 P 7600 2600
 F 0 "SW18" H 7600 2885 50  0000 C CNN
-F 1 "SW_Push_Dual" H 7600 2794 50  0000 C CNN
+F 1 "Kailh_choc" H 7600 2794 50  0000 C CNN
 F 2 "User_Keyboard:Kailh_low_profile" H 7600 2800 50  0001 C CNN
 F 3 "~" H 7600 2800 50  0001 C CNN
 	1    7600 2600
@@ -212,7 +212,7 @@ L User_Switch:SW_Push_Dual SW19
 U 1 1 5EF92AF6
 P 8700 2600
 F 0 "SW19" H 8700 2885 50  0000 C CNN
-F 1 "SW_Push_Dual" H 8700 2794 50  0000 C CNN
+F 1 "Kailh_choc" H 8700 2794 50  0000 C CNN
 F 2 "User_Keyboard:Kailh_low_profile" H 8700 2800 50  0001 C CNN
 F 3 "~" H 8700 2800 50  0001 C CNN
 	1    8700 2600
@@ -223,7 +223,7 @@ L User_Switch:SW_Push_Dual SW22
 U 1 1 5EFABBE3
 P 6550 3150
 F 0 "SW22" H 6550 3435 50  0000 C CNN
-F 1 "SW_Push_Dual" H 6550 3344 50  0000 C CNN
+F 1 "Kailh_choc" H 6550 3344 50  0000 C CNN
 F 2 "User_Keyboard:Kailh_low_profile" H 6550 3350 50  0001 C CNN
 F 3 "~" H 6550 3350 50  0001 C CNN
 	1    6550 3150
@@ -259,7 +259,7 @@ L User_Switch:SW_Push_Dual SW21
 U 1 1 5EFC4FD1
 P 5300 3150
 F 0 "SW21" H 5300 3435 50  0000 C CNN
-F 1 "SW_Push_Dual" H 5300 3344 50  0000 C CNN
+F 1 "Kailh_choc" H 5300 3344 50  0000 C CNN
 F 2 "User_Keyboard:Kailh_low_profile" H 5300 3350 50  0001 C CNN
 F 3 "~" H 5300 3350 50  0001 C CNN
 	1    5300 3150
@@ -277,7 +277,7 @@ L User_Switch:SW_Push_Dual SW16
 U 1 1 5EF7A22A
 P 5350 2600
 F 0 "SW16" H 5350 2885 50  0000 C CNN
-F 1 "SW_Push_Dual" H 5350 2794 50  0000 C CNN
+F 1 "Kailh_choc" H 5350 2794 50  0000 C CNN
 F 2 "User_Keyboard:Kailh_low_profile" H 5350 2800 50  0001 C CNN
 F 3 "~" H 5350 2800 50  0001 C CNN
 	1    5350 2600
@@ -562,7 +562,7 @@ L User_Switch:SW_Push_Dual SW20
 U 1 1 5EF9B0F9
 P 9900 2600
 F 0 "SW20" H 9900 2885 50  0000 C CNN
-F 1 "SW_Push_Dual" H 9900 2794 50  0000 C CNN
+F 1 "Kailh_choc" H 9900 2794 50  0000 C CNN
 F 2 "User_Keyboard:Kailh_low_profile" H 9900 2800 50  0001 C CNN
 F 3 "~" H 9900 2800 50  0001 C CNN
 	1    9900 2600
@@ -621,7 +621,7 @@ L User_Switch:SW_Push_Dual SW23
 U 1 1 5EFB4459
 P 7600 3150
 F 0 "SW23" H 7600 3435 50  0000 C CNN
-F 1 "SW_Push_Dual" H 7600 3344 50  0000 C CNN
+F 1 "Kailh_choc" H 7600 3344 50  0000 C CNN
 F 2 "User_Keyboard:Kailh_low_profile" H 7600 3350 50  0001 C CNN
 F 3 "~" H 7600 3350 50  0001 C CNN
 	1    7600 3150
@@ -632,7 +632,7 @@ L User_Switch:SW_Push_Dual SW24
 U 1 1 5EFBCB19
 P 8700 3150
 F 0 "SW24" H 8700 3435 50  0000 C CNN
-F 1 "SW_Push_Dual" H 8700 3344 50  0000 C CNN
+F 1 "Kailh_choc" H 8700 3344 50  0000 C CNN
 F 2 "User_Keyboard:Kailh_low_profile" H 8700 3350 50  0001 C CNN
 F 3 "~" H 8700 3350 50  0001 C CNN
 	1    8700 3150
@@ -779,7 +779,7 @@ L User_Switch:SW_Push_Dual SW15
 U 1 1 5EF71D21
 P 9900 2050
 F 0 "SW15" H 9900 2335 50  0000 C CNN
-F 1 "SW_Push_Dual" H 9900 2244 50  0000 C CNN
+F 1 "Kailh_choc" H 9900 2244 50  0000 C CNN
 F 2 "User_Keyboard:Kailh_low_profile" H 9900 2250 50  0001 C CNN
 F 3 "~" H 9900 2250 50  0001 C CNN
 	1    9900 2050
@@ -790,7 +790,7 @@ L User_Switch:SW_Push_Dual SW10
 U 1 1 5EF48A4E
 P 9900 1500
 F 0 "SW10" H 9900 1785 50  0000 C CNN
-F 1 "SW_Push_Dual" H 9900 1694 50  0000 C CNN
+F 1 "Kailh_choc" H 9900 1694 50  0000 C CNN
 F 2 "User_Keyboard:Kailh_low_profile" H 9900 1700 50  0001 C CNN
 F 3 "~" H 9900 1700 50  0001 C CNN
 	1    9900 1500
@@ -801,7 +801,7 @@ L User_Switch:SW_Push_Dual SW5
 U 1 1 5EF1F1CF
 P 9900 950
 F 0 "SW5" H 9900 1235 50  0000 C CNN
-F 1 "SW_Push_Dual" H 9900 1144 50  0000 C CNN
+F 1 "Kailh_choc" H 9900 1144 50  0000 C CNN
 F 2 "User_Keyboard:Kailh_low_profile" H 9900 1150 50  0001 C CNN
 F 3 "~" H 9900 1150 50  0001 C CNN
 	1    9900 950 
@@ -916,7 +916,7 @@ L User_Switch:SW_Push_Dual SW1
 U 1 1 5EF0544A
 P 5350 950
 F 0 "SW1" H 5350 1235 50  0000 C CNN
-F 1 "SW_Push_Dual" H 5350 1144 50  0000 C CNN
+F 1 "Kailh_choc" H 5350 1144 50  0000 C CNN
 F 2 "User_Keyboard:Kailh_low_profile" H 5350 1150 50  0001 C CNN
 F 3 "~" H 5350 1150 50  0001 C CNN
 	1    5350 950 
@@ -927,7 +927,7 @@ L User_Switch:SW_Push_Dual SW6
 U 1 1 5EF2775E
 P 5350 1500
 F 0 "SW6" H 5350 1785 50  0000 C CNN
-F 1 "SW_Push_Dual" H 5350 1694 50  0000 C CNN
+F 1 "Kailh_choc" H 5350 1694 50  0000 C CNN
 F 2 "User_Keyboard:Kailh_low_profile" H 5350 1700 50  0001 C CNN
 F 3 "~" H 5350 1700 50  0001 C CNN
 	1    5350 1500
@@ -938,7 +938,7 @@ L User_Switch:SW_Push_Dual SW11
 U 1 1 5EF50F21
 P 5350 2050
 F 0 "SW11" H 5350 2335 50  0000 C CNN
-F 1 "SW_Push_Dual" H 5350 2244 50  0000 C CNN
+F 1 "Kailh_choc" H 5350 2244 50  0000 C CNN
 F 2 "User_Keyboard:Kailh_low_profile" H 5350 2250 50  0001 C CNN
 F 3 "~" H 5350 2250 50  0001 C CNN
 	1    5350 2050
@@ -1047,7 +1047,7 @@ L User_Switch:SW_Push_Dual SW14
 U 1 1 5EF69911
 P 8700 2050
 F 0 "SW14" H 8700 2335 50  0000 C CNN
-F 1 "SW_Push_Dual" H 8700 2244 50  0000 C CNN
+F 1 "Kailh_choc" H 8700 2244 50  0000 C CNN
 F 2 "User_Keyboard:Kailh_low_profile" H 8700 2250 50  0001 C CNN
 F 3 "~" H 8700 2250 50  0001 C CNN
 	1    8700 2050
@@ -1058,7 +1058,7 @@ L User_Switch:SW_Push_Dual SW13
 U 1 1 5EF615D4
 P 7600 2050
 F 0 "SW13" H 7600 2335 50  0000 C CNN
-F 1 "SW_Push_Dual" H 7600 2244 50  0000 C CNN
+F 1 "Kailh_choc" H 7600 2244 50  0000 C CNN
 F 2 "User_Keyboard:Kailh_low_profile" H 7600 2250 50  0001 C CNN
 F 3 "~" H 7600 2250 50  0001 C CNN
 	1    7600 2050
@@ -1069,7 +1069,7 @@ L User_Switch:SW_Push_Dual SW12
 U 1 1 5EF59304
 P 6550 2050
 F 0 "SW12" H 6550 2335 50  0000 C CNN
-F 1 "SW_Push_Dual" H 6550 2244 50  0000 C CNN
+F 1 "Kailh_choc" H 6550 2244 50  0000 C CNN
 F 2 "User_Keyboard:Kailh_low_profile" H 6550 2250 50  0001 C CNN
 F 3 "~" H 6550 2250 50  0001 C CNN
 	1    6550 2050
@@ -1080,7 +1080,7 @@ L User_Switch:SW_Push_Dual SW9
 U 1 1 5EF404DF
 P 8700 1500
 F 0 "SW9" H 8700 1785 50  0000 C CNN
-F 1 "SW_Push_Dual" H 8700 1694 50  0000 C CNN
+F 1 "Kailh_choc" H 8700 1694 50  0000 C CNN
 F 2 "User_Keyboard:Kailh_low_profile" H 8700 1700 50  0001 C CNN
 F 3 "~" H 8700 1700 50  0001 C CNN
 	1    8700 1500
@@ -1091,7 +1091,7 @@ L User_Switch:SW_Push_Dual SW8
 U 1 1 5EF38059
 P 7600 1500
 F 0 "SW8" H 7600 1785 50  0000 C CNN
-F 1 "SW_Push_Dual" H 7600 1694 50  0000 C CNN
+F 1 "Kailh_choc" H 7600 1694 50  0000 C CNN
 F 2 "User_Keyboard:Kailh_low_profile" H 7600 1700 50  0001 C CNN
 F 3 "~" H 7600 1700 50  0001 C CNN
 	1    7600 1500
@@ -1102,7 +1102,7 @@ L User_Switch:SW_Push_Dual SW7
 U 1 1 5EF2FD1C
 P 6550 1500
 F 0 "SW7" H 6550 1785 50  0000 C CNN
-F 1 "SW_Push_Dual" H 6550 1694 50  0000 C CNN
+F 1 "Kailh_choc" H 6550 1694 50  0000 C CNN
 F 2 "User_Keyboard:Kailh_low_profile" H 6550 1700 50  0001 C CNN
 F 3 "~" H 6550 1700 50  0001 C CNN
 	1    6550 1500
@@ -1113,7 +1113,7 @@ L User_Switch:SW_Push_Dual SW4
 U 1 1 5EF16D8E
 P 8700 950
 F 0 "SW4" H 8700 1235 50  0000 C CNN
-F 1 "SW_Push_Dual" H 8700 1144 50  0000 C CNN
+F 1 "Kailh_choc" H 8700 1144 50  0000 C CNN
 F 2 "User_Keyboard:Kailh_low_profile" H 8700 1150 50  0001 C CNN
 F 3 "~" H 8700 1150 50  0001 C CNN
 	1    8700 950 
@@ -1124,7 +1124,7 @@ L User_Switch:SW_Push_Dual SW3
 U 1 1 5EF0E9E9
 P 7600 950
 F 0 "SW3" H 7600 1235 50  0000 C CNN
-F 1 "SW_Push_Dual" H 7600 1144 50  0000 C CNN
+F 1 "Kailh_choc" H 7600 1144 50  0000 C CNN
 F 2 "User_Keyboard:Kailh_low_profile" H 7600 1150 50  0001 C CNN
 F 3 "~" H 7600 1150 50  0001 C CNN
 	1    7600 950 
@@ -1135,7 +1135,7 @@ L User_Switch:SW_Push_Dual SW2
 U 1 1 5EF06446
 P 6550 950
 F 0 "SW2" H 6550 1235 50  0000 C CNN
-F 1 "SW_Push_Dual" H 6550 1144 50  0000 C CNN
+F 1 "Kailh_choc" H 6550 1144 50  0000 C CNN
 F 2 "User_Keyboard:Kailh_low_profile" H 6550 1150 50  0001 C CNN
 F 3 "~" H 6550 1150 50  0001 C CNN
 	1    6550 950 

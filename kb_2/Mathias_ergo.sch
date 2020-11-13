@@ -186,7 +186,7 @@ $EndComp
 NoConn ~ 950  7100
 NoConn ~ 950  7200
 $Comp
-L User_Switch:SW_Push_Dual SW17
+L Mathias_ergo-rescue:SW_Push_Dual-User_Switch SW17
 U 1 1 5EF82529
 P 6550 2600
 F 0 "SW17" H 6550 2885 50  0000 C CNN
@@ -197,7 +197,7 @@ F 3 "~" H 6550 2800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L User_Switch:SW_Push_Dual SW18
+L Mathias_ergo-rescue:SW_Push_Dual-User_Switch SW18
 U 1 1 5EF8A940
 P 7600 2600
 F 0 "SW18" H 7600 2885 50  0000 C CNN
@@ -208,7 +208,7 @@ F 3 "~" H 7600 2800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L User_Switch:SW_Push_Dual SW19
+L Mathias_ergo-rescue:SW_Push_Dual-User_Switch SW19
 U 1 1 5EF92AF6
 P 8700 2600
 F 0 "SW19" H 8700 2885 50  0000 C CNN
@@ -219,7 +219,7 @@ F 3 "~" H 8700 2800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L User_Switch:SW_Push_Dual SW22
+L Mathias_ergo-rescue:SW_Push_Dual-User_Switch SW22
 U 1 1 5EFABBE3
 P 6550 3150
 F 0 "SW22" H 6550 3435 50  0000 C CNN
@@ -255,7 +255,7 @@ Wire Wire Line
 Wire Wire Line
 	5500 3350 5650 3350
 $Comp
-L User_Switch:SW_Push_Dual SW21
+L Mathias_ergo-rescue:SW_Push_Dual-User_Switch SW21
 U 1 1 5EFC4FD1
 P 5300 3150
 F 0 "SW21" H 5300 3435 50  0000 C CNN
@@ -273,7 +273,7 @@ Wire Wire Line
 Wire Wire Line
 	5550 2800 5650 2800
 $Comp
-L User_Switch:SW_Push_Dual SW16
+L Mathias_ergo-rescue:SW_Push_Dual-User_Switch SW16
 U 1 1 5EF7A22A
 P 5350 2600
 F 0 "SW16" H 5350 2885 50  0000 C CNN
@@ -558,7 +558,7 @@ Wire Wire Line
 Text Label 2000 1050 0    50   ~ 0
 S23
 $Comp
-L User_Switch:SW_Push_Dual SW20
+L Mathias_ergo-rescue:SW_Push_Dual-User_Switch SW20
 U 1 1 5EF9B0F9
 P 9900 2600
 F 0 "SW20" H 9900 2885 50  0000 C CNN
@@ -617,7 +617,7 @@ S6
 Text Label 2000 2750 0    50   ~ 0
 S6
 $Comp
-L User_Switch:SW_Push_Dual SW23
+L Mathias_ergo-rescue:SW_Push_Dual-User_Switch SW23
 U 1 1 5EFB4459
 P 7600 3150
 F 0 "SW23" H 7600 3435 50  0000 C CNN
@@ -628,7 +628,7 @@ F 3 "~" H 7600 3350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L User_Switch:SW_Push_Dual SW24
+L Mathias_ergo-rescue:SW_Push_Dual-User_Switch SW24
 U 1 1 5EFBCB19
 P 8700 3150
 F 0 "SW24" H 8700 3435 50  0000 C CNN
@@ -743,8 +743,6 @@ Text Label 4450 4450 0    50   ~ 0
 Battery_switch_tht
 Text Label 4400 5400 0    50   ~ 0
 Battery_switch_tht
-Text Notes 5250 4400 0    50   ~ 0
-This connection is for the THT battery holders
 Wire Wire Line
 	4400 5400 4400 5650
 Connection ~ 4400 5650
@@ -775,7 +773,7 @@ Connection ~ 6150 2800
 Connection ~ 7350 2800
 Connection ~ 8450 2800
 $Comp
-L User_Switch:SW_Push_Dual SW15
+L Mathias_ergo-rescue:SW_Push_Dual-User_Switch SW15
 U 1 1 5EF71D21
 P 9900 2050
 F 0 "SW15" H 9900 2335 50  0000 C CNN
@@ -786,7 +784,7 @@ F 3 "~" H 9900 2250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L User_Switch:SW_Push_Dual SW10
+L Mathias_ergo-rescue:SW_Push_Dual-User_Switch SW10
 U 1 1 5EF48A4E
 P 9900 1500
 F 0 "SW10" H 9900 1785 50  0000 C CNN
@@ -797,7 +795,7 @@ F 3 "~" H 9900 1700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L User_Switch:SW_Push_Dual SW5
+L Mathias_ergo-rescue:SW_Push_Dual-User_Switch SW5
 U 1 1 5EF1F1CF
 P 9900 950
 F 0 "SW5" H 9900 1235 50  0000 C CNN
@@ -912,7 +910,7 @@ S16
 Wire Wire Line
 	5550 950  5550 1150
 $Comp
-L User_Switch:SW_Push_Dual SW1
+L Mathias_ergo-rescue:SW_Push_Dual-User_Switch SW1
 U 1 1 5EF0544A
 P 5350 950
 F 0 "SW1" H 5350 1235 50  0000 C CNN
@@ -923,7 +921,7 @@ F 3 "~" H 5350 1150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L User_Switch:SW_Push_Dual SW6
+L Mathias_ergo-rescue:SW_Push_Dual-User_Switch SW6
 U 1 1 5EF2775E
 P 5350 1500
 F 0 "SW6" H 5350 1785 50  0000 C CNN
@@ -934,7 +932,7 @@ F 3 "~" H 5350 1700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L User_Switch:SW_Push_Dual SW11
+L Mathias_ergo-rescue:SW_Push_Dual-User_Switch SW11
 U 1 1 5EF50F21
 P 5350 2050
 F 0 "SW11" H 5350 2335 50  0000 C CNN
@@ -1043,7 +1041,7 @@ S30
 Text Label 9000 2250 0    50   ~ 0
 S29
 $Comp
-L User_Switch:SW_Push_Dual SW14
+L Mathias_ergo-rescue:SW_Push_Dual-User_Switch SW14
 U 1 1 5EF69911
 P 8700 2050
 F 0 "SW14" H 8700 2335 50  0000 C CNN
@@ -1054,7 +1052,7 @@ F 3 "~" H 8700 2250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L User_Switch:SW_Push_Dual SW13
+L Mathias_ergo-rescue:SW_Push_Dual-User_Switch SW13
 U 1 1 5EF615D4
 P 7600 2050
 F 0 "SW13" H 7600 2335 50  0000 C CNN
@@ -1065,7 +1063,7 @@ F 3 "~" H 7600 2250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L User_Switch:SW_Push_Dual SW12
+L Mathias_ergo-rescue:SW_Push_Dual-User_Switch SW12
 U 1 1 5EF59304
 P 6550 2050
 F 0 "SW12" H 6550 2335 50  0000 C CNN
@@ -1076,7 +1074,7 @@ F 3 "~" H 6550 2250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L User_Switch:SW_Push_Dual SW9
+L Mathias_ergo-rescue:SW_Push_Dual-User_Switch SW9
 U 1 1 5EF404DF
 P 8700 1500
 F 0 "SW9" H 8700 1785 50  0000 C CNN
@@ -1087,7 +1085,7 @@ F 3 "~" H 8700 1700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L User_Switch:SW_Push_Dual SW8
+L Mathias_ergo-rescue:SW_Push_Dual-User_Switch SW8
 U 1 1 5EF38059
 P 7600 1500
 F 0 "SW8" H 7600 1785 50  0000 C CNN
@@ -1098,7 +1096,7 @@ F 3 "~" H 7600 1700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L User_Switch:SW_Push_Dual SW7
+L Mathias_ergo-rescue:SW_Push_Dual-User_Switch SW7
 U 1 1 5EF2FD1C
 P 6550 1500
 F 0 "SW7" H 6550 1785 50  0000 C CNN
@@ -1109,7 +1107,7 @@ F 3 "~" H 6550 1700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L User_Switch:SW_Push_Dual SW4
+L Mathias_ergo-rescue:SW_Push_Dual-User_Switch SW4
 U 1 1 5EF16D8E
 P 8700 950
 F 0 "SW4" H 8700 1235 50  0000 C CNN
@@ -1120,7 +1118,7 @@ F 3 "~" H 8700 1150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L User_Switch:SW_Push_Dual SW3
+L Mathias_ergo-rescue:SW_Push_Dual-User_Switch SW3
 U 1 1 5EF0E9E9
 P 7600 950
 F 0 "SW3" H 7600 1235 50  0000 C CNN
@@ -1131,7 +1129,7 @@ F 3 "~" H 7600 1150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L User_Switch:SW_Push_Dual SW2
+L Mathias_ergo-rescue:SW_Push_Dual-User_Switch SW2
 U 1 1 5EF06446
 P 6550 950
 F 0 "SW2" H 6550 1235 50  0000 C CNN
@@ -1174,4 +1172,6 @@ Text GLabel 3150 3400 0    50   Input ~ 0
 VCC2
 Text Notes 2750 3650 0    50   ~ 0
 Connectors for testing if the unsused\ngnd plane can be used for debouncing.
+Text Notes 5250 4400 0    50   ~ 0
+This connection is for the THT battery holders
 $EndSCHEMATC
