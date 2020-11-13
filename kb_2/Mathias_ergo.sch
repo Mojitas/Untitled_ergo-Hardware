@@ -4,10 +4,10 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
-Comp ""
+Title "Botkeeb"
+Date "2020-11-13"
+Rev "1.0"
+Comp "Mojitas upcoming company"
 Comment1 ""
 Comment2 ""
 Comment3 ""
