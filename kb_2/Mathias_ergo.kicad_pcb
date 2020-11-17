@@ -10,6 +10,13 @@
   )
 
   (page A4)
+  (title_block
+    (title Botkeeb)
+    (date 2020-11-13)
+    (rev 1.0)
+    (company "Mojitas upcoming company")
+  )
+
   (layers
     (0 F.Cu signal)
     (31 B.Cu signal)
@@ -34,12 +41,12 @@
   )
 
   (setup
-    (last_trace_width 0.2032)
+    (last_trace_width 0.2)
     (user_trace_width 0.25)
-    (trace_clearance 0.2032)
+    (trace_clearance 0.2)
     (zone_clearance 0.508)
     (zone_45_only no)
-    (trace_min 0.127)
+    (trace_min 0.2)
     (via_size 0.8)
     (via_drill 0.4)
     (via_min_size 0.45)
@@ -143,8 +150,8 @@
   (net 49 /Battery_switch_tht)
 
   (net_class Default "This is the default net class."
-    (clearance 0.2032)
-    (trace_width 0.2032)
+    (clearance 0.2)
+    (trace_width 0.2)
     (via_dia 0.8)
     (via_drill 0.4)
     (uvia_dia 0.3)
@@ -2755,7 +2762,7 @@
   (segment (start 171.890863 138.8618) (end 184.335579 138.8618) (width 0.2032) (layer B.Cu) (net 49))
   (segment (start 165.313221 132.284158) (end 171.890863 138.8618) (width 0.2032) (layer B.Cu) (net 49))
 
-  (zone (net 4) (net_name GND1) (layer F.Cu) (tstamp 5F7E1E8E) (hatch edge 0.508)
+  (zone (net 4) (net_name GND1) (layer F.Cu) (tstamp 5FB3A69D) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
     (min_thickness 0.254)
     (fill yes (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.508))
@@ -4250,7 +4257,7 @@
       )
     )
   )
-  (zone (net 9) (net_name GND2) (layer B.Cu) (tstamp 5F7E1E8B) (hatch edge 0.508)
+  (zone (net 9) (net_name GND2) (layer B.Cu) (tstamp 5FB3A69A) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
     (min_thickness 0.254)
     (fill yes (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.508))
