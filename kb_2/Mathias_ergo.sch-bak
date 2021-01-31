@@ -1175,67 +1175,67 @@ Connectors for testing if the unsused\ngnd plane can be used for debouncing.
 Text Notes 5250 4400 0    50   ~ 0
 This connection is for the THT battery holders
 $Comp
-L Mechanical:MountingHole H?
+L Mechanical:MountingHole H101
 U 1 1 6022320A
 P 6250 6600
-F 0 "H?" H 6350 6646 50  0000 L CNN
+F 0 "H101" H 6350 6646 50  0000 L CNN
 F 1 "MountingHole" H 6350 6555 50  0000 L CNN
-F 2 "" H 6250 6600 50  0001 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 6250 6600 50  0001 C CNN
 F 3 "~" H 6250 6600 50  0001 C CNN
 	1    6250 6600
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole H?
+L Mechanical:MountingHole H102
 U 1 1 60223856
 P 6250 6750
-F 0 "H?" H 6350 6796 50  0000 L CNN
+F 0 "H102" H 6350 6796 50  0000 L CNN
 F 1 "MountingHole" H 6350 6705 50  0000 L CNN
-F 2 "" H 6250 6750 50  0001 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 6250 6750 50  0001 C CNN
 F 3 "~" H 6250 6750 50  0001 C CNN
 	1    6250 6750
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole H?
+L Mechanical:MountingHole H103
 U 1 1 60223A37
 P 6250 6900
-F 0 "H?" H 6350 6946 50  0000 L CNN
+F 0 "H103" H 6350 6946 50  0000 L CNN
 F 1 "MountingHole" H 6350 6855 50  0000 L CNN
-F 2 "" H 6250 6900 50  0001 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 6250 6900 50  0001 C CNN
 F 3 "~" H 6250 6900 50  0001 C CNN
 	1    6250 6900
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole H?
+L Mechanical:MountingHole H104
 U 1 1 60223B94
 P 6250 7050
-F 0 "H?" H 6350 7096 50  0000 L CNN
+F 0 "H104" H 6350 7096 50  0000 L CNN
 F 1 "MountingHole" H 6350 7005 50  0000 L CNN
-F 2 "" H 6250 7050 50  0001 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 6250 7050 50  0001 C CNN
 F 3 "~" H 6250 7050 50  0001 C CNN
 	1    6250 7050
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole H?
+L Mechanical:MountingHole H105
 U 1 1 60223D44
 P 6250 7200
-F 0 "H?" H 6350 7246 50  0000 L CNN
+F 0 "H105" H 6350 7246 50  0000 L CNN
 F 1 "MountingHole" H 6350 7155 50  0000 L CNN
-F 2 "" H 6250 7200 50  0001 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 6250 7200 50  0001 C CNN
 F 3 "~" H 6250 7200 50  0001 C CNN
 	1    6250 7200
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole H?
+L Mechanical:MountingHole H106
 U 1 1 60223F19
 P 6250 7350
-F 0 "H?" H 6350 7396 50  0000 L CNN
+F 0 "H106" H 6350 7396 50  0000 L CNN
 F 1 "MountingHole" H 6350 7305 50  0000 L CNN
-F 2 "" H 6250 7350 50  0001 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 6250 7350 50  0001 C CNN
 F 3 "~" H 6250 7350 50  0001 C CNN
 	1    6250 7350
 	1    0    0    -1  

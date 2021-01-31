@@ -1167,7 +1167,7 @@ Text Label 2000 6000 0    50   ~ 0
 S1
 Connection ~ 950  1600
 $Comp
-L User:Core51822 MCU1
+L Mathias_ergo-rescue:Core51822-User MCU1
 U 1 1 5E914475
 P 1400 2350
 F 0 "MCU1" H 1400 4175 50  0000 C CNN
@@ -1243,7 +1243,7 @@ Wire Wire Line
 	4950 3350 4950 3900
 Connection ~ 950  5150
 $Comp
-L User:Core51822 MCU2
+L Mathias_ergo-rescue:Core51822-User MCU2
 U 1 1 5E97D228
 P 1400 5900
 F 0 "MCU2" H 1400 7725 50  0000 C CNN

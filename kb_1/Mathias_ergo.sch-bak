@@ -1255,12 +1255,16 @@ F 3 "" H 1400 5950 50  0001 C CNN
 $EndComp
 NoConn ~ 1850 6400
 NoConn ~ 1850 2750
-Text Notes 2300 1000 0    50   ~ 0
-MCU for right hand\nWill be on the green layer\n
+Text Notes 2250 1100 0    50   ~ 0
+MCU for right hand\nWill be on the bottom layer\n
 Text Notes 2400 6950 0    50   ~ 0
-MCU for the left hand\nWill be on the red layer
+MCU for the left hand\nWill be on the top layer
 Text Notes 5400 6300 0    50   ~ 0
 Battery protection MOSFET\nMakes the MCU not blow if the battery is inserted wrongly
 Text Notes 9250 3400 0    50   ~ 0
 Switches can be placed on \neither side of the final pcb\nHence the extra pin
+Text Notes 2250 2900 0    50   ~ 0
+Order of the labels is for matching\nthe same key to a IO-pin close to the trace\nof the other side, even\nthough the MCU is flipped.
+Text Notes 3050 5150 0    50   ~ 0
+Programming headers
 $EndSCHEMATC
