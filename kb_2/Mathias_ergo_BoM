@@ -1,0 +1,8 @@
+Reference, Quantity, Value, Footprint, Datasheet
+BT1 ,1,"Battery_Cell","User_Keyboard:Battery_mod_tht","~"
+J1 ,1,"Conn_01x04","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Horizontal","~"
+J3 ,1,"Conn_02x02_Odd_Even","Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical","~"
+MCU1 ,1,"Core51822","User_Keyboard:YJ14015",""
+Q1 ,1,"DMG3414U","Package_TO_SOT_SMD:SOT-23","http://www.diodes.com/assets/Datasheets/ds31739.pdf"
+SW1 - SW24 ,24,"Kailh_choc","User_Keyboard:Kailh_low_profile","~"
+SW25 ,1,"SW_SPST","User_Keyboard:PCM12SMTR","~"
