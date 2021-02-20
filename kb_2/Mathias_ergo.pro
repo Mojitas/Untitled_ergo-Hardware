@@ -1,4 +1,4 @@
-update=29/01/2021 17:30:09
+update=20/02/2021 15:36:35
 version=1
 last_client=kicad
 [general]
@@ -246,8 +246,19 @@ Enabled=0
 [pcbnew/Netclasses]
 [pcbnew/Netclasses/Default]
 Name=Default
-Clearance=0.127
+Clearance=0.254
 TrackWidth=0.127
+ViaDiameter=0.6
+ViaDrill=0.3
+uViaDiameter=0.6858
+uViaDrill=0.3302
+dPairWidth=0.1524
+dPairGap=0.254
+dPairViaGap=0.25
+[pcbnew/Netclasses/1]
+Name=JLC
+Clearance=0.254
+TrackWidth=0.2
 ViaDiameter=0.6
 ViaDrill=0.3
 uViaDiameter=0.6858
